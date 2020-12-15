@@ -1,9 +1,9 @@
 ---
 title: "My First Post"
 date: 2020-12-15T13:08:40+01:00
-draft: true
 image : "sunny_day.jpg"
 ---
+
 # For Your Eyes Only
 **Hi there,**
 *Shahida Perveen* here.
