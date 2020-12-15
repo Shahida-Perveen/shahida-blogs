@@ -2,6 +2,8 @@
 title: "My First Post"
 date: 2020-12-15T13:08:40+01:00
 image : "sunny_day.jpg"
+author: Shahida Perveen
+draft : false
 ---
 
 # For Your Eyes Only
