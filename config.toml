@@ -9,15 +9,15 @@ paginate        = 6
   title       = "Hugo Casper Two"
   subtitle    = "Port of Casper 2.x for Hugo"
 
-  cover       = "img/blog-cover.jpg"
-  description = "Here is a description of your site."
+  cover       = "sunny-day.jpg"
+  description = "Reflections of a big little girl."
   metaDescription = ""
   googleAnalytics = ""
   customCSS = []
   RSSLink = ""
 
   twitterName = "faketryghost"
-  fbName = "fakeghost"
+  fbName = "ShahidaPerveenAli"
   githubName = "eueung"
 
   logo = "hugo-logo.png"
@@ -26,7 +26,7 @@ paginate        = 6
   orgDescription = "Here is a description placeholder for your org"
 
   author = "EM"
-  authorAvatar = "img/ghost-icon.png"
+  authorAvatar = "shahida.png"
   authorLocation = "Bandung, ID"
   authorWebsite = "https://eueung.github.io"
   authorDescription = "Describe yourself.."
